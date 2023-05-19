@@ -1,2 +1,2 @@
 # ytGPT
-Tests in generating chunks of LLM content from Youtube videos/channels
+Random scripts for downloading YouTube audio/video/transcripts and chunking it into vector db for search.
